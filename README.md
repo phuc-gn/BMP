@@ -1,4 +1,6 @@
 # BMP
+BMP Project
+
 Usage:
 
 -conv "input file path" "output file path": Convert 24bpp or 32bpp image to 8bpp image.
